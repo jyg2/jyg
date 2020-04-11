@@ -1,11 +1,11 @@
 {
-  "name": "You2PHP",
-  "description": "基于PHP的YouTube代理应用",
-  "website": "https://github.com/gfw-breaker/",
-  "repository": "https://github.com/gfw-breaker/you2php-heroku",
+  "name": "聚缘阁禁闻导航",
+  "description": "一键制作聚缘阁禁闻导航",
+  "website": "https://github.com/jyg2/jyg",
+  "repository": "https://github.com/jyg2/jyg",
   "env": {
     "APIKEY": {
-      "description": "Youtube API V3 KEY",
+      "description": "jyg API V3 KEY",
       "value": "AIzaSyDOy40AKnOUvotuyMJ8Fk9guYbecB3ZUXo"
     },
     "PLAYLIST_ID": {
